@@ -52,13 +52,16 @@ Aplicación web Full Stack estructurada en arquitectura desacoplada.
 * **Descripción:** Sistema web modular con separación limpia entre la capa de presentación y la lógica de backend.
 * **Tecnologías:** `JavaScript` | `Node.js` | `Express`
 
+
 ---
 
 ## 📊 Métricas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jprivas94&show_icons=true&theme=github_dark&hide_border=false&count_private=true" height="145" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jprivas94&layout=compact&theme=github_dark&hide_border=false" height="145" alt="Lenguajes Principales" />
+  <img src="https://streak-stats.demolab.com/?user=jprivas94&theme=github-dark&hide_border=false" height="150" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jprivas94&theme=github_dark" height="150" alt="Lenguajes por Repositorio" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jprivas94&theme=github-dark" width="95%" alt="Gráfico de Actividad GitHub" />
 </div>
 
 ---
