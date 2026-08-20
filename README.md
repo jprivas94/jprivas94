@@ -51,18 +51,6 @@ Sistema de publicación automática con TypeScript.
 
 ---
 
-## Estadísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jprivas94&show_icons=false&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jprivas94&layout=compact&theme=transparent&hide_border=true&langs_count=5)
-
-</div>
-
----
-
 ## Formato de Contacto
 
 | Canal | Enlace |
