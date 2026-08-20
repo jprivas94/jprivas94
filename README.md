@@ -44,11 +44,6 @@ Aplicación web Full Stack con arquitectura separada frontend-backend.
 
 `JavaScript` `Node.js`
 
-### Aiuto Publish
-Sistema de publicación automática con TypeScript.
-
-`TypeScript`
-
 ---
 
 ## Formato de Contacto
@@ -61,8 +56,4 @@ Sistema de publicación automática con TypeScript.
 
 ---
 
-<div align="center">
 
-*"Construyendo software que resuelve problemas reales."*
-
-</div>
